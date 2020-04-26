@@ -19,3 +19,15 @@ criptografado de identificação que esta inserido no capacete do usuário,que j
 para usuário e questão, com informação de acesso para motocicleta, a mesma só vai funcionaenquanto 
 usuário estive com capacete e passar pelo leitor desse modo será permitido ligar a motocicleta, senão 
 o alarme da moto será disparado como prevenção de algum furto ou mau uso do capacete de segurança.
+
+# Colaboradores:
+
+ - Profº Claudio Rogerio Gomes (Professor Orientador)
+ - Bruno Gonçalves (Academico)
+ - Joelden Lopez (Academico)
+ - Douglas Silva (Academico)
+ - Andre Costa (Academico)
+ 
+ # conclusão:
+ O projeto foi finalizado no segundo semestre de 2018, quando estavamos cursando o segundo semestre de ciencia da computação
+ na Universidade Federal do Amapá e apresentado na Semana de Engenharia Eletrica 
