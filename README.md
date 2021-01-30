@@ -20,6 +20,10 @@ para usuário e questão, com informação de acesso para motocicleta, a mesma s
 usuário estive com capacete e passar pelo leitor desse modo será permitido ligar a motocicleta, senão 
 o alarme da moto será disparado como prevenção de algum furto ou mau uso do capacete de segurança.
 
+<p align="center">
+  <img src="https://i0.wp.com/www.arduinoportugal.pt/wp-content/uploads/2017/04/arduino_rfid_rc522_esquema.jpg?resize=610%2C397&ssl=1" />
+</p>
+
 # Colaboradores:
 
  - Profº Claudio Rogerio Gomes (Professor Orientador)
