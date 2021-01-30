@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png"/>
+</p>
+
 # Objetivos:
 
 - Conscientizar os motociclistas na utilização do principal meio de segurança das
@@ -21,7 +25,7 @@ usuário estive com capacete e passar pelo leitor desse modo será permitido lig
 o alarme da moto será disparado como prevenção de algum furto ou mau uso do capacete de segurança.
 
 <p align="center">
-  <img src="https://i0.wp.com/www.arduinoportugal.pt/wp-content/uploads/2017/04/arduino_rfid_rc522_esquema.jpg?resize=610%2C397&ssl=1" />
+  <img src="https://www.electrofun.pt/img/cms/1490784318_tmp_Circuito-RFID-RC522-Arduino.jpg"/>
 </p>
 
 # Colaboradores:
