@@ -2,7 +2,7 @@
   <img src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png"/>
 </p>
 
-# Objetivos
+## Objetivos
 
 - Conscientizar os motociclistas na utilização do principal meio de segurança das
 motocicletas, principalmente na área rural.
@@ -13,7 +13,7 @@ acessíveis para qualquer classe social.
 - Diminuir a taxa de acidente com motos e toda área urbana, todavia com foco principal na
 zona rural.
 
-# Especificação
+## Especificações
 
 Através desse projeto será feito uma pequena modificação na parte de eletrica da
 motocicleta que vai receber alguns Relés (interruptores) e um leitor de RFID agregado a uma 
@@ -28,7 +28,7 @@ o alarme da moto será disparado como prevenção de algum furto ou mau uso do c
   <img src="https://www.electrofun.pt/img/cms/1490784318_tmp_Circuito-RFID-RC522-Arduino.jpg"/>
 </p>
 
-# Colaboradores
+## Colaboradores
 
  - Profº Claudio Rogerio Gomes (Professor Orientador)
  - Bruno Gonçalves (Academico)
@@ -36,6 +36,6 @@ o alarme da moto será disparado como prevenção de algum furto ou mau uso do c
  - Douglas Silva (Academico)
  - Andre Costa (Academico)
  
- # Conclusão
+ ## Conclusão
  O projeto foi finalizado no segundo semestre de 2018, quando estavamos cursando o segundo semestre de ciencia da computação
  na Universidade Federal do Amapá e apresentado na Semana de Engenharia Eletrica 
