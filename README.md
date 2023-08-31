@@ -1,5 +1,7 @@
+# Capacete Inteligente Antifurto
+
 <p align="center">
-  <img src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png"/>
+  <img src="https://pin.it/2vqjivJ"/>
 </p>
 
 ## Objetivos
