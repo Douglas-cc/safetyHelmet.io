@@ -30,7 +30,7 @@ o alarme da moto será disparado como prevenção de algum furto ou mau uso do c
 
 ## Video de Demonstração do Protótipo 
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/Douglas-cc/safetyHelmet.io/master/capa.png)](https://www.youtube.com/watch?v=NqQYebr0R78&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://github.com/Douglas-cc/safetyHelmet.io/blob/master/capa-02.png)](https://www.youtube.com/watch?v=NqQYebr0R78&feature=youtu.be)
 
 
 ## Colaboradores
