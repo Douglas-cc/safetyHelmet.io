@@ -1,8 +1,7 @@
 # Capacete Inteligente Antifurto
 
-<p align="center">
-  ![Alt Text](https://media.tenor.com/xnfw5HcYJxUAAAAC/motorcycle-motocicleta.gif)  
-</p>
+
+![Alt Text](https://media.tenor.com/xnfw5HcYJxUAAAAC/motorcycle-motocicleta.gif)  
 
 
 ## Objetivos
